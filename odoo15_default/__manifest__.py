@@ -155,7 +155,7 @@
     # Docker images to be used in this deployment
     # syntax: name url
     'docker-images': [
-        'odoo frani/odoo-ce:15.0',
+        'odoo franivars00/odoo-ce:15.0',
         'postgres postgres:10.1-alpine',
     ]
 }
