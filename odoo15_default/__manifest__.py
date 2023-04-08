@@ -144,7 +144,7 @@
     # repositories to be installed in sources/ dir
     # syntax: the same as git clone
     'git-repos': [
-        'https://github.com/franivars00/odoo15frani',
+        'https://github.com/franivars00/cl-odoo15',
         'https://github.com/regaby/odoo-custom.git -b 15.0-adhoc',
         'https://github.com/hormigaG/odoo-argentina-ce.git -b 15.0_refact',
         'https://github.com/OCA/reporting-engine.git',
